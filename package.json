@@ -1,0 +1,19 @@
+{
+  "name": "gpt-chat",
+  "main": "app/app.js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.9.0",
+    "@nativescript/theme": "^3.1.0",
+    "abort-controller": "^3.0.0",
+    "nativescript-ui-sidedrawer": "^15.2.3",
+    "nativescript-vue": "~2.9.3",
+    "openai": "^5.3.0"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.9.1",
+    "@nativescript/webpack": "~5.0.0",
+    "nativescript-vue-template-compiler": "~2.9.3"
+  }
+}
